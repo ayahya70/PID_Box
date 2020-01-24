@@ -1,0 +1,5 @@
+﻿"sheet"= 3.18mm
+"tabW"= 15mm
+"4-40Diam" = 2.94mm
+"nutDiam" = 6.5mm
+"nutThickness"= 2.6mm
