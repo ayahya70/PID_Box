@@ -4,4 +4,4 @@ check out some other groups repos, for good suggestions.
 
 (and some bade ones)
 
-~Mr H	
+~Mr Helmstetter
