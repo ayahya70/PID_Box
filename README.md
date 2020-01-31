@@ -1,7 +1,28 @@
-THIS WILL BE WHERE YOUR PLANNING (and later, your documentation) MUST BE
+# PID_Box 
 
-check out some other groups repos, for good suggestions.
 
-(and some bade ones)
 
-~Mr Helmstetter
+## Table of Contents
+
+
+
+## PID_Box Planning
+
+
+
+
+## Problem/Solution
+
+
+
+
+### Problem
+
+
+
+
+### Solution
+
+
+
+##
