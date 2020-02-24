@@ -33,8 +33,9 @@ The solution to our problem is to make the walls smaller by changing the width a
 * Finish the box and fix the width and height so that the walls will be able to fit in solid works drawing.
 * Finish the git hub pid box page
 * The photointerrupter should be able to read how fast the wheel is going then it will appear on the lcd how fast its going.
-*
-
+* Finish the wiring after the box is finish
+* Use time wisely
+* use online help if stuck on code "internet is your friend"
 
 
 
@@ -42,3 +43,13 @@ The solution to our problem is to make the walls smaller by changing the width a
 
 
 ### Constraints
+* Do not use alot of wires make them short
+* Avoid using to much of the acrilic
+* avoid printing to many things that we might not need
+* Dont make the walls to big or it wont fit into the drawing
+* use less materials
+
+ 
+### Purview
+
+This project is not hard because I have done it 3 times but when it comes to the coding thats when it goes down hill. Right now me and my partner Bear are making the walls on our pid box smaller because the orginal size we had was to big so not all of the walls could fit in the drawing. The parts overlaped each other and if it was lazer cutted the parts that over laping would be cut and that would be wasting arclic and we dont want to do that.
